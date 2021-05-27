@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working as a fullstack software developer @ New Energies
-🌱 I’m currently learning LUA for FiveM mods
+### 🔭 I’m currently working as a fullstack software developer @ New Energies
+### 🌱 I’m currently learning LUA for FiveM mods
 https://gustavohserafim.github.io/
 
 <!--
