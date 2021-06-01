@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### 🔭 I’m currently working as a fullstack software developer @ New Energies
 ### 🌱 I’m currently learning LUA for FiveM mods
+### 🤔 My favorite language is Python
 
 
 <!--
