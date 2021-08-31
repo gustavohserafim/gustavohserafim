@@ -1,3 +1,7 @@
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohserafim&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 Hello there 👋 <br>
 Gustavo Serafim 🧔 <br>
 Backend Developer 💻
@@ -8,10 +12,7 @@ Backend Developer 💻
 <img height="100em" src="https://image.flaticon.com/icons/png/512/1163/1163573.png" alt="Amazon AWS" title="Amazon AWS"/>
   
 </div>
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohserafim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
 <br>
 <h1>
 📫 How to reach me: <br><br> </h1>
