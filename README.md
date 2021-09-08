@@ -1,5 +1,5 @@
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohserafim&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavohserafim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br/>
 </div>
 Hello there 👋 <br>
 Gustavo Serafim 🧔 <br>
@@ -9,7 +9,7 @@ Backend Developer 💻
 <img height="100em" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" alt="Python" title="Python"/>
 <img height="100em" src="https://image.flaticon.com/icons/png/512/288/288882.png" alt="MySQL" title="MySQL"/>
 <img height="100em" src="https://image.flaticon.com/icons/png/512/1163/1163573.png" alt="Amazon AWS" title="Amazon AWS"/>
-  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohserafim&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
