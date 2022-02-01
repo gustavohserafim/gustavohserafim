@@ -4,14 +4,6 @@
 Hello there 👋 <br>
 Gustavo Serafim 🧔 <br>
 Backend Developer 💻
-<div style="display: inline_block">
- Minhas principais tecnologias: <br><br>
-<img height="100em" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" alt="Python" title="Python"/>
-<img height="100em" src="https://image.flaticon.com/icons/png/512/288/288882.png" alt="MySQL" title="MySQL"/>
-<img height="100em" src="https://image.flaticon.com/icons/png/512/1163/1163573.png" alt="Amazon AWS" title="Amazon AWS"/><br/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavohserafim&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 <br>
 <h1>
 📫 How to reach me: <br><br> </h1>
